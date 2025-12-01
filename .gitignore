@@ -1,0 +1,26 @@
+# ---- Virtual environments ----
+venv/
+env/
+
+# ---- Python cache / compiled files ----
+__pycache__/
+*.py[cod]
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Models / artifacts ----
+models/
+*.pkl
+
+# ---- Processed data ----
+data/processed/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.code-workspace
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db

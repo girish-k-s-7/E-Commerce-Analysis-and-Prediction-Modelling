@@ -1,0 +1,7 @@
+README.md
+setup.py
+E_Commerce_Analysis_and_Prediction_Modelling.egg-info/PKG-INFO
+E_Commerce_Analysis_and_Prediction_Modelling.egg-info/SOURCES.txt
+E_Commerce_Analysis_and_Prediction_Modelling.egg-info/dependency_links.txt
+E_Commerce_Analysis_and_Prediction_Modelling.egg-info/requires.txt
+E_Commerce_Analysis_and_Prediction_Modelling.egg-info/top_level.txt
